@@ -44,12 +44,14 @@ ___
 Каждая таблица находится на отдельном сервере. 
 
 ![alt text](https://github.com/Mars12121/hw-12-07/blob/main/img/1.png)
+![alt text](https://github.com/Mars12121/hw-12-07/blob/main/img/1.png)
 
 # Горизонтальный шардинг
 - Таблица Books разделена на 2 сервера по названию книги от A-N и от O-Z
 - Таблица Users разделена по тоже разделена на 2 сервера по принципу аутонтификации и данных users
 - Таблица Stores была перенесена полностью в отдельный сервер без изменений 
 
+![alt text](https://github.com/Mars12121/hw-12-07/blob/main/img/2.png)
 ![alt text](https://github.com/Mars12121/hw-12-07/blob/main/img/2.png)
 
 ## Дополнительные задания (со звёздочкой*)
